@@ -1,2 +1,2 @@
 
-/xxl-job-admin:2.4.0
+xxl-job/xxl-job-admin:2.4.0
