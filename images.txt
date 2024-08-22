@@ -1,2 +1,2 @@
 
-xxl-job/xxl-job-admin:2.4.0
+elastic/filebeat:7.14.0
