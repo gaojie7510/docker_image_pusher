@@ -1,2 +1,4 @@
 
 elastic/filebeat:7.14.0
+
+elastic/kibana:7.14.0
