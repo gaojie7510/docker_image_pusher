@@ -8,3 +8,5 @@ elastic/elasticsearch:7.14.0
 elastic/mongodb:4.0.6
 
 nacos/nacos-server:1.4.1
+
+zookeeper:3.6.3
