@@ -1,2 +1,2 @@
 
-mongodb:4.0.6
+mongo:4.0.6
